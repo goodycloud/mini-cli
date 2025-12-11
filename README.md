@@ -159,7 +159,7 @@ git checkout main
 git merge feature/docs
 ```
 
-![git log 화면](./docs/images/docker_run.png)
+![git log 화면](./docs/images/git-log.png)
 ---
 
 ## 📄 6. 라이선스 (LICENSE)
