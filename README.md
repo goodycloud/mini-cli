@@ -21,8 +21,8 @@ mini-cli/
  └─ docs/
      └─ images/
          ├─ linux_run.png
-         └─ docker_run.png
-
+         ├─ docker_run.png
+         └─ git-log.png
 
 ---
 ```
