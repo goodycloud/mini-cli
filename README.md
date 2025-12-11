@@ -153,9 +153,7 @@ git commit -m "Add screenshots for Linux and Docker execution"
 git checkout main
 git merge feature/docs
 ```
-
 ---
-
 ## 📌 6. 마무리
 
 이 프로젝트를 통해 다음 과정을 직접 경험했습니다.
@@ -164,9 +162,9 @@ git merge feature/docs
 * 간단한 CLI C 프로그램 작성 및 실행
 * Dockerfile 구성 및 컨테이너 이미지 빌드
 * Podman 기반 docker 실행 환경에서 컨테이너 실행
-* Git 커밋/브랜치/머지 및 GitHub 배포
+* Git 커밋/브랜치/머지 및 GitHub배포
 
-이 저장소 자체가 과제 제출용 리포트 역할을 합니다.
+이 저장소 자체가 과제 제출용 리포트 역할을 하게됩니다.
 
 ---
 
